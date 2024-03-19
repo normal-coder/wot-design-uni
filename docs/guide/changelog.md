@@ -1,6 +1,10 @@
 # 更新日志 
 
 
+## [1.1.0](https://github.com/normal-coder/wot-design-uni/compare/v1.0.1...v1.1.0) (2024-03-19)
+
+### [1.0.2](https://github.com/normal-coder/wot-design-uni/compare/v1.0.1...v1.0.2) (2024-03-19)
+
 ### [1.0.1](https://github.com/normal-coder/wot-design-uni/compare/v1.3.2...v1.0.1) (2024-03-19)
 
 ## [1.0.0](https://github.com/normal-coder/wot-design-uni/compare/v1.3.2...v1.0.0) (2024-03-19)
