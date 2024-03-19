@@ -14,7 +14,7 @@
   "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moonofweisheng/wot-design-uni.git"
+    "url": "https://github.com/normal-coder/wot-design-uni.git"
   },
   "engines": {
     "HBuilderX": "^3.8.7"
@@ -37,7 +37,7 @@
       "data": "插件不采集任何数据",
       "permissions": "无"
     },
-    "npmurl": "https://www.npmjs.com/package/wot-design-uni"
+    "npmurl": "https://www.npmjs.com/package/wot-design-uni-self"
   },
   "uni_modules": {
     "dependencies": [],
