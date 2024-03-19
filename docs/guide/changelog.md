@@ -1,6 +1,14 @@
 # 更新日志 
 
 
+### [1.1.1](https://github.com/normal-coder/wot-design-uni/compare/v1.1.0...v1.1.1) (2024-03-19)
+
+
+### ✨ Features | 新功能
+
+* init && first release ([5b9b6f2](https://github.com/normal-coder/wot-design-uni/commit/5b9b6f2c4ec864fdbd3b628527a959482ebabb51))
+* init && first release ([a2de460](https://github.com/normal-coder/wot-design-uni/commit/a2de46002b29b7d6fe6f13299bad2dcec972a080))
+
 ## [1.1.0](https://github.com/normal-coder/wot-design-uni/compare/v1.0.1...v1.1.0) (2024-03-19)
 
 ### [1.0.2](https://github.com/normal-coder/wot-design-uni/compare/v1.0.1...v1.0.2) (2024-03-19)

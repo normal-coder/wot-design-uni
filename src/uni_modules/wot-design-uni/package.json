@@ -2,7 +2,7 @@
   "id": "wot-design-uni-self",
   "name": "wot-design-uni-self",
   "displayName": "wot-design-uni 基于 vue3+Typescript 的高颜值组件库",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "一个基于 Vue3+TS 开发的 uni-app 组件库，提供 60+ 高质量组件，支持暗黑模式和自定义主题。",
   "keywords": [
     "wot-design-uni",
