@@ -1,9 +1,9 @@
 {
-  "name": "normalcoder/wot-design-uni",
+  "name": "wot-design-uni-self",
   "version": "0.2.5",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moonofweisheng/wot-design-uni.git"
+    "url": "https://github.com/normal-coder/wot-design-uni.git"
   },
   "scripts": {
     "dev:app": "uni -p app",
